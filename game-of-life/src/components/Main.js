@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDom from "react-dom";
 import Buttons from "./Buttons";
+import Grid from "./Grid";
 
 class Main extends React.Component {
   constructor() {
