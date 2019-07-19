@@ -1,0 +1,21 @@
+Coming into this project I had never heard of or seen Conways Game of Life.
+  This was quite an interesting theory and project. I spent alot of time 
+  reading about this theory and looking at other examples of code to get a 
+  good idea of what is going on here. First was to plan out how to go about
+  creating this project ie. what languages, frameworks I was going to use.
+  Obviously I ended up using React, but I did not use any other frameworks 
+  like Canvas.js. But I did end up using bootstrap. I really wanted to 
+  challenge myself with this since it was the first time I had seen or heard 
+  of this. I kept my code as vanilla as possible, straight up React and javascript. 
+  It took me awhile with some of the logic and some trial and error of what 
+  worked and what didn't and where. It was touch and go here and there but 
+  in the end my project worked. The hardest part of this was my play function 
+  inside of my main component. There was alot of logic going into this one 
+  function as I spent the majority of my time implementing this functionality. 
+  A bunch of errors and trial and error went into this, but in the end I made it there.
+  I did end up having to revisit my javascript fundamentals a little bit while trying
+  to implement this functionality. It's amazing how much one can remember just by
+  reading a little or revisiting previous code you have written. One thing is for 
+  sure nobody can remember all of these things without having to go back and peek.
+  I think at some point I will redo this project or start from scratch and build
+  a really good example of Conway's Game of Life.
